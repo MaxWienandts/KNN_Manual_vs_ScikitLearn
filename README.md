@@ -16,3 +16,5 @@ Key Topics Covered:
 
 Objective:
 To provide a clear, educational comparison between manual KNN and library-based KNN, building intuition for when and how to apply KNN effectively.
+
+📖 Medium Article: https://medium.com/@maxwienandts/mastering-k-nearest-neighbors-knn-from-manual-implementation-to-real-world-applications-a61e8c181906
