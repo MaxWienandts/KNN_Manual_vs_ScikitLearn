@@ -18,3 +18,9 @@ Objective:
 To provide a clear, educational comparison between manual KNN and library-based KNN, building intuition for when and how to apply KNN effectively.
 
 📖 Medium Article: https://medium.com/@maxwienandts/mastering-k-nearest-neighbors-knn-from-manual-implementation-to-real-world-applications-a61e8c181906
+
+**Max Wienandts**  
+• LinkedIn: https://www.linkedin.com/in/max-wienandts/ \
+• Medium: https://medium.com/@maxwienandts  \
+• GitHub: https://github.com/MaxWienandts \
+• Buy me a coffee: https://www.paypal.com/donate/?hosted_button_id=2F444HZGJBNX6
